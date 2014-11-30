@@ -2,6 +2,8 @@
 
 An Ruboty Handler + Actions to 西暦年から和暦を出力する ruboty-wareki を作成しました.
 
+[![Gem Version](https://badge.fury.io/rb/ruboty-wareki.svg)](http://badge.fury.io/rb/ruboty-wareki)
+
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
 ## Installation
