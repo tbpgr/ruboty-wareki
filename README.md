@@ -49,15 +49,15 @@ Or install it yourself as:
 * get wareki from AD. ※12月31日時点の元号
 
 ~~~bash
->ruboty wareki convert 1868
+>ruboty wareki convert_after 1868
 >明治01年
->ruboty wareki convert 1913
+>ruboty wareki convert_after 1913
 >大正02年
->ruboty wareki convert 1977
+>ruboty wareki convert_after 1977
 >昭和52年
->ruboty wareki convert 1989
+>ruboty wareki convert_after 1989
 >平成01年
->ruboty wareki convert 1990
+>ruboty wareki convert_after 1990
 >平成02年
 ~~~
 
