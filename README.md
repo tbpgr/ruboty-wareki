@@ -1,6 +1,6 @@
 # Ruboty::Wareki
 
-An Ruboty Handler + Actions to 西暦年から和暦を出力する ruboty-wareki を作成しました.
+A Ruboty Handler + Actions to 西暦年から和暦を出力する ruboty-wareki を作成しました.
 
 [![Gem Version](https://badge.fury.io/rb/ruboty-wareki.svg)](http://badge.fury.io/rb/ruboty-wareki)
 
